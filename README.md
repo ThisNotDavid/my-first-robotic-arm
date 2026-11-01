@@ -7,6 +7,3 @@ I won a first place in UTM Robotic Arm Workshop 2025: This workshop was organise
 --
 code files are uploaded in the "codes" folder, only the header and source files that I made/modified are added. 
 Use ioc file as your reference to pin assignment
-
---
-will update the photos and electronic part soon
