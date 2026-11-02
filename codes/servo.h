@@ -2,7 +2,7 @@
  * servo.h
  *
  *  Created on: Sep 26, 2025
- *      Author: Wong's PC
+ *      Author: David Chang Gum Wai
  */
 
 #ifndef INC_SERVO_H_
