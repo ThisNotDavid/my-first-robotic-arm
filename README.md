@@ -2,7 +2,7 @@
 
 **First place, UTM Robotic Arm Workshop 2025.** A 3D-printed robotic arm controlled by an STM32 "Blue Pill". I wrote inverse-kinematics joystick control for it, so the joystick moves the gripper in x/y/z instead of one joint at a time.
 
-![My robotic arm](https://github.com/user-attachments/assets/749b6cac-a465-44c8-a40e-2180f50519a0)
+<img src="docs/robotic_arm.jpg" alt="My robotic arm" width="500">
 
 ## The workshop and competition
 
